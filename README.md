@@ -2,4 +2,8 @@
 
 ## Rock-a-bye Baby Song in JavaScript
 
-### Original Version (Using Functions)
+## Checklists
+
+- [x] Create repository with JS file
+
+- [x] Add README.md
